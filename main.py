@@ -25,7 +25,7 @@ GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
 # Destinataires des rapports
 DESTINATAIRES_RAPPORT = [
     "dorleanthony@gmail.com",  # Anthony
-    # Ajouter l'email de Ludo ici
+    "laetony@gmail.com",  # Ludo
 ]
 
 # Fichiers à sauvegarder sur GitHub
