@@ -21,6 +21,7 @@ GITHUB_REPO = "laetony-cmd/axi-agences"
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 GMAIL_USER = os.environ.get("GMAIL_USER", "")
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
+APIFY_TOKEN = os.environ.get("APIFY_TOKEN", "")
 
 # Destinataires des rapports
 DESTINATAIRES_RAPPORT = [
