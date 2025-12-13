@@ -1,2 +1,40 @@
-# rapport_quotidien.txt
+=== RAPPORT 13/12/2025 ===
+# journal_activite.txt
 Créé le 2025-12-11 06:48
+[2025-12-11 06:48:55] 🏠 Axi Agences démarré sur AXIS Station
+[2025-12-11 06:48:55] 📡 Serveur web sur port 8080
+[2025-12-11 06:48:56] 🚀 Scheduler démarré
+[2025-12-11 09:19:45] 🏠 Axi Agences démarré sur AXIS Station
+[2025-12-11 09:19:46] 📡 Serveur web sur port 8080
+[2025-12-11 09:19:47] 🚀 Scheduler démarré
+[2025-12-11 10:00:48] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
+[2025-12-11 10:00:49] ✅ Vérification des annonces en ligne
+[2025-12-11 12:00:49] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
+[2025-12-11 12:00:51] ✅ Vérification des annonces en ligne
+[2025-12-11 14:00:44] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
+[2025-12-11 14:00:46] ✅ Vérification des annonces en ligne
+[2025-12-11 16:00:46] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
+[2025-12-11 16:00:48] ✅ Vérification des annonces en ligne
+[2025-12-13 06:18:35] 🏠 Axi Agences démarré sur AXIS Station
+[2025-12-13 06:18:36] 📡 Serveur web sur port 8080
+[2025-12-13 06:18:37] 🚀 Scheduler démarré
+[2025-12-13 08:00:37] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
+[2025-12-13 08:00:38] ✅ Vérification des annonces en ligne
+[2025-12-13 09:00:24] 🏠 Axi Agences démarré sur AXIS Station
+[2025-12-13 09:00:25] 📡 Serveur web sur port 8080
+[2025-12-13 09:00:26] 🚀 Scheduler démarré
+[2025-12-13 10:02:11] 🏠 Axi Agences démarré sur AXIS Station
+[2025-12-13 10:02:12] 📡 Serveur web sur port 8080
+[2025-12-13 10:02:13] 🚀 Scheduler démarré
+[2025-12-13 10:02:14] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
+[2025-12-13 10:02:16] ✅ Vérification des annonces en ligne
+[2025-12-13 12:00:16] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
+[2025-12-13 12:00:17] ✅ Vérification des annonces en ligne
+[2025-12-13 14:00:16] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
+[2025-12-13 14:00:18] ✅ Vérification des annonces en ligne
+[2025-12-13 16:00:17] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
+[2025-12-13 16:00:19] ✅ Vérification des annonces en ligne
+[2025-12-13 18:00:18] 📊 Analyse du marché immobilier
+[2025-12-13 18:00:19] 📧 Envoi du rapport quotidien
+[2025-12-13 18:00:20] 📝 Génération du rapport quotidien
+
