@@ -1,27 +1,5 @@
-=== RAPPORT 14/12/2025 ===
-25-12-11 06:48:55] 🏠 Axi Agences démarré sur AXIS Station
-[2025-12-11 06:48:55] 📡 Serveur web sur port 8080
-[2025-12-11 06:48:56] 🚀 Scheduler démarré
-[2025-12-11 09:19:45] 🏠 Axi Agences démarré sur AXIS Station
-[2025-12-11 09:19:46] 📡 Serveur web sur port 8080
-[2025-12-11 09:19:47] 🚀 Scheduler démarré
-[2025-12-11 10:00:48] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
-[2025-12-11 10:00:49] ✅ Vérification des annonces en ligne
-[2025-12-11 12:00:49] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
-[2025-12-11 12:00:51] ✅ Vérification des annonces en ligne
-[2025-12-11 14:00:44] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
-[2025-12-11 14:00:46] ✅ Vérification des annonces en ligne
-[2025-12-11 16:00:46] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
-[2025-12-11 16:00:48] ✅ Vérification des annonces en ligne
-[2025-12-13 06:18:35] 🏠 Axi Agences démarré sur AXIS Station
-[2025-12-13 06:18:36] 📡 Serveur web sur port 8080
-[2025-12-13 06:18:37] 🚀 Scheduler démarré
-[2025-12-13 08:00:37] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
-[2025-12-13 08:00:38] ✅ Vérification des annonces en ligne
-[2025-12-13 09:00:24] 🏠 Axi Agences démarré sur AXIS Station
-[2025-12-13 09:00:25] 📡 Serveur web sur port 8080
-[2025-12-13 09:00:26] 🚀 Scheduler démarré
-[2025-12-13 10:02:11] 🏠 Axi Agences démarré sur AXIS Station
+=== RAPPORT 15/12/2025 ===
+ Station
 [2025-12-13 10:02:12] 📡 Serveur web sur port 8080
 [2025-12-13 10:02:13] 🚀 Scheduler démarré
 [2025-12-13 10:02:14] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
@@ -49,4 +27,27 @@
 [2025-12-14 18:00:24] 📊 Analyse du marché immobilier
 [2025-12-14 18:00:24] 📧 Envoi du rapport quotidien
 [2025-12-14 18:00:25] 📝 Génération du rapport quotidien
+[2025-12-14 18:00:27] Email non configuré
+[2025-12-15 05:10:17] 🏠 Axi Agences démarré sur AXIS Station
+[2025-12-15 05:10:18] 📡 Serveur web sur port 8080
+[2025-12-15 05:10:20] 🚀 Scheduler démarré
+[2025-12-15 05:49:14] 🏠 Axi Agences démarré sur AXIS Station
+[2025-12-15 05:49:15] 📡 Serveur web sur port 8080
+[2025-12-15 05:49:16] 🚀 Scheduler démarré
+[2025-12-15 08:00:16] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
+[2025-12-15 08:00:17] ✅ Vérification des annonces en ligne
+[2025-12-15 10:00:17] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
+[2025-12-15 10:00:18] ✅ Vérification des annonces en ligne
+[2025-12-15 10:17:57] 🏠 Axi Agences démarré sur AXIS Station
+[2025-12-15 10:17:58] 📡 Serveur web sur port 8080
+[2025-12-15 10:18:00] 🚀 Scheduler démarré
+[2025-12-15 12:00:00] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
+[2025-12-15 12:00:02] ✅ Vérification des annonces en ligne
+[2025-12-15 14:00:02] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
+[2025-12-15 14:00:03] ✅ Vérification des annonces en ligne
+[2025-12-15 16:00:03] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
+[2025-12-15 16:00:05] ✅ Vérification des annonces en ligne
+[2025-12-15 18:00:06] 📊 Analyse du marché immobilier
+[2025-12-15 18:00:07] 📧 Envoi du rapport quotidien
+[2025-12-15 18:00:08] 📝 Génération du rapport quotidien
 
