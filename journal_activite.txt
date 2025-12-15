@@ -63,3 +63,4 @@ Créé le 2025-12-11 06:48
 [2025-12-15 10:00:18] ✅ Vérification des annonces en ligne
 [2025-12-15 10:17:57] 🏠 Axi Agences démarré sur AXIS Station
 [2025-12-15 10:17:58] 📡 Serveur web sur port 8080
+[2025-12-15 10:18:00] 🚀 Scheduler démarré
