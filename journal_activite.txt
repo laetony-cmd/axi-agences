@@ -76,3 +76,4 @@ Créé le 2025-12-11 06:48
 [2025-12-15 18:00:10] Email non configuré
 [2025-12-16 08:06:41] 🏠 Axi Agences démarré sur AXIS Station
 [2025-12-16 08:06:42] 📡 Serveur web sur port 8080
+[2025-12-16 08:06:43] 🚀 Scheduler démarré
