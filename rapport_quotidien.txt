@@ -1,19 +1,5 @@
-=== RAPPORT 23/12/2025 ===
+=== RAPPORT 24/12/2025 ===
 echerche de mandats potentiels
-[2025-12-20 14:00:09] ✅ Vérification des annonces en ligne
-[2025-12-20 16:00:08] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
-[2025-12-20 16:00:10] ✅ Vérification des annonces en ligne
-[2025-12-20 18:00:09] 📊 Analyse du marché immobilier
-[2025-12-20 18:00:10] 📧 Envoi du rapport quotidien
-[2025-12-20 18:00:11] 📝 Génération du rapport quotidien
-[2025-12-20 18:00:13] Email non configuré
-[2025-12-21 08:00:01] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
-[2025-12-21 08:00:03] ✅ Vérification des annonces en ligne
-[2025-12-21 10:00:03] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
-[2025-12-21 10:00:07] ✅ Vérification des annonces en ligne
-[2025-12-21 12:00:13] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
-[2025-12-21 12:00:15] ✅ Vérification des annonces en ligne
-[2025-12-21 14:00:14] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
 [2025-12-21 14:00:16] ✅ Vérification des annonces en ligne
 [2025-12-21 16:00:15] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
 [2025-12-21 16:00:17] ✅ Vérification des annonces en ligne
@@ -48,4 +34,18 @@ echerche de mandats potentiels
 [2025-12-23 18:00:27] 📊 Analyse du marché immobilier
 [2025-12-23 18:00:28] 📧 Envoi du rapport quotidien
 [2025-12-23 18:00:29] 📝 Génération du rapport quotidien
+[2025-12-23 18:00:31] Email non configuré
+[2025-12-24 08:00:19] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
+[2025-12-24 08:00:22] ✅ Vérification des annonces en ligne
+[2025-12-24 10:00:21] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
+[2025-12-24 10:00:24] ✅ Vérification des annonces en ligne
+[2025-12-24 12:00:29] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
+[2025-12-24 12:00:31] ✅ Vérification des annonces en ligne
+[2025-12-24 14:00:31] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
+[2025-12-24 14:00:33] ✅ Vérification des annonces en ligne
+[2025-12-24 16:00:32] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
+[2025-12-24 16:00:34] ✅ Vérification des annonces en ligne
+[2025-12-24 18:00:33] 📊 Analyse du marché immobilier
+[2025-12-24 18:00:34] 📧 Envoi du rapport quotidien
+[2025-12-24 18:00:35] 📝 Génération du rapport quotidien
 
