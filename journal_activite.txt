@@ -202,3 +202,4 @@ Créé le 2025-12-11 06:48
 [2025-12-24 18:00:35] 📝 Génération du rapport quotidien
 [2025-12-24 18:00:37] Email non configuré
 [2025-12-25 08:00:26] 🔍 Veille LeBonCoin - Recherche de mandats potentiels
+[2025-12-25 08:00:28] ✅ Vérification des annonces en ligne
