@@ -297,3 +297,4 @@ Créé le 2025-12-11 06:48
 [2025-12-31 16:00:08] ✅ Vérification des annonces en ligne
 [2025-12-31 18:00:07] 📊 Analyse du marché immobilier
 [2025-12-31 18:00:08] 📧 Envoi du rapport quotidien
+[2025-12-31 18:00:10] 📝 Génération du rapport quotidien
